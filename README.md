@@ -1,0 +1,4 @@
+arabicTrainer
+=============
+
+Spoken Arabic trainer
